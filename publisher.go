@@ -30,5 +30,5 @@ func main() {
 		log.Fatal("failed to write messages:", err)
 	}
 
-	fmt.Println("✅ Event published successfully!")
+	fmt.Println("✅ Event published successfully! \n")
 }
